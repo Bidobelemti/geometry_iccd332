@@ -1,0 +1,1 @@
+from utils.geometry import perimetro_circulo,perimetro_cuadrilatero,perimetro_triangulo,area_circulo,area_cuadrilatero,area_triangulo, print_resultado
